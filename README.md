@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @heathornJ AKA Jamie!
+- 👀 I’m interested in front end web development.
+- 🌱 I’m currently learning HTML, CSS, JS, React, Redux, and TypeScript!
+- 📫 How to reach me:
+  - Email: heathornj@gmail.com
+  - LinkedIn: www.linkedin.com/in/jamie-heathorn-458538268
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm also an online fitness coach and avid snowboarder!
