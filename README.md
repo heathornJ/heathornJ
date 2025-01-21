@@ -14,7 +14,7 @@ Ideally, I seek to work within the health sector of Web Development since I have
 ## My Short Term Goal
 My goal for the next few weeks/months is to get hired as a Junior Developer.
 
-Additionally, I aim to build a web-app that can be used to select a theme, which can then be used to pull a random question related to it from a preset list of questions.
+Additionally, I aim to build a web-app for a Card Game to further practice my HTML, CSS, JavaScript, and React skills.
 
 I'll also be keeping track of these goals and expand upon them as I achieve them.
 
@@ -28,8 +28,9 @@ See my progress below ⬇
 * 🟠 [04] Learn basic python.
 * 🟠 [05] Learn the basics of creating and using APIs.
 * 🟠 [06] Refresh all current skills.
-* 🔴 [07] Create light & dark modes for my portfolio.
-* 🔴 [08] Begin to collaborate on other open source projects.
+* 🟠 [07] Build Web-App for Card Game.
+* 🔴 [08] Create light & dark modes for my portfolio.
+* 🔴 [09] Begin to collaborate on other open source projects.
 
 ---
 
