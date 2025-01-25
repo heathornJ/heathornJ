@@ -31,6 +31,7 @@ See my progress below ⬇
 * 🟠 [07] Build Web-App for Card Game.
 * 🔴 [08] Create light & dark modes for my portfolio.
 * 🔴 [09] Begin to collaborate on other open source projects.
+* 🔴 [10] Study Neetcode 150.
 
 ---
 
