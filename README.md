@@ -28,7 +28,7 @@ See my progress below ⬇
 * 🟠 [04] Learn basic python.
 * 🟠 [05] Learn the basics of creating and using APIs.
 * 🟠 [06] Refresh all current skills.
-* 🟠 [07] Build Web-App for Card Game.
+* 🟢 [07] Build Web-App for Card Game.
 * 🔴 [08] Create light & dark modes for my portfolio.
 * 🔴 [09] Begin to collaborate on other open source projects.
 * 🔴 [10] Study Neetcode 150.
